@@ -9,7 +9,6 @@ This is a simple Node.js + Express API that uses OpenRouter (OpenAI-compatible) 
 
 ## 🚀 Features
 
-- `/ping` — Health check
 - `/generate` — Generate new math questions by topic
 - `/generate-similar` — Generate questions similar to a sample
 - GPT fallback handling: works even when output is not valid JSON
